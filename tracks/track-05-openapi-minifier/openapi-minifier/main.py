@@ -1,5 +1,6 @@
-def main():
-    print("here")
+import parser from parser
 
-if __name__ == "main":
-    main()
+def main():
+    parser()
+
+main()
